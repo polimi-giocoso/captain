@@ -1,4 +1,8 @@
-# HiCaptain
+# Hi Captain
+
+- [Documentazione](https://github.com/polimi-giocoso/docs)
+
+###### Licenza
 
 Copyright 2015 Lorenzo Affetti, Giacomo Bresciani, Stefano Cappa
 
